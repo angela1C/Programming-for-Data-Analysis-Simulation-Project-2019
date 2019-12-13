@@ -1,8 +1,9 @@
 # Programming_for_data_analysis_Project
+
 Repository for Programming for Data Analysis Project at GMIT 2019
 
-This repository contains my submission for the Programming for Data Analysis Module 2019 Project for the Programming for Data Analysis at GMIT as part of the Higher Diploma in Computing and Data Analytics.
-
+This repository contains my submission for the Programming for Data Analysis Module 2019 Project for the Programming for Data Analysis module at GMIT as part of the Higher Diploma in Computing and Data Analytics.
+This repository contains the Jupyter notebook `Simulate.ipynb` and some related data files and folders. The main body of the work is in the notebook.
 
 ## How to download this repository
 
