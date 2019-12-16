@@ -17,7 +17,7 @@ Note that this project is about simulation – you must synthesise a data set. S
 
 ## How to download this repository
 
-Go to the URL for the repository on GitHub at https://github.com/angela1C/ Click the green Clone or download button.
+Go to the URL for the repository on GitHub at https://github.com/angela1C/Programming_for_data_analysis_Project Click the green Clone or download button.
 
 ### Contents of this repository:
 
@@ -40,9 +40,9 @@ The notebook containing all the work is called `simulation.ipynb`. If the reposi
 The first section introduced the project and outlined the real world phenomenon I have chosen to simulate.
 The next section loaded a real world dataset on which the simulation would be based. There is a bit of cleaning in this section to get the data ready. Several datasets were loaded and merged. The prepared data is then written to csv to the data folder of this repository.
 The next section focused on analysing the real world dataset, looking at the type of variables, their distributions and their relationships with other variables in the data.
-The final section then prepares for the simulation.
+The final section then prepares for the simulation and implements the simulation of the dataset.
 
-Note that part of the requirement for this project was to have all the work relating to the project detailed in the jupyter notebook. For this reason the notebook may take a little while to load.
+Note that part of the requirement for this project was to have all the work relating to the project detailed in the jupyter notebook. For this reason the notebook may take a little while to load. 
 
 ## References 
 References are noted in the section in which they are used and are listed at the end of the notebook.
